@@ -1,3 +1,1 @@
-This is origin text, no other texts has been added
-
-Added this text from branch "gilbert"
+This is completely contradictory haha
